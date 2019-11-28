@@ -1,11 +1,11 @@
 {
   "name": "@isheedo/table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@isheedo/button": "^1.0.1",
-    "@isheedo/text": "^1.0.1",
+    "@isheedo/button": "^1.0.2",
+    "@isheedo/text": "^1.0.2",
     "lodash": "^4.17.15"
   },
   "gitHead": "e1629d5949d47500e4182bb5ce76c7cbc4b967ff"
