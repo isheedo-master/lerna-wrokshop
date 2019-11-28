@@ -4,6 +4,6 @@
   ],
   "version": "independent",
   "publishConfig": {
-    "access": "piblic"
+    "access": "public"
   }
 }
