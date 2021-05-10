@@ -6,7 +6,7 @@
   "dependencies": {
     "@isheedo/button": "^1.0.3",
     "@isheedo/text": "^1.0.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "gitHead": "d8f70df2033f71f411fc8f10e0b317833a7a95d8"
 }
